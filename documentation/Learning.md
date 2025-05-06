@@ -110,6 +110,8 @@ Try to find resources that use Python 3.
 * [Gated Convolutional Recurrent Neural Networks for Multilingual Handwriting Recognition](https://ieeexplore-ieee-org.erl.lib.byu.edu/document/8270042)
 * [Are Multidimensional Recurrent Layers Really Necessary for Handwritten Text Recognition?](http://www.jpuigcerver.net/pubs/jpuigcerver_icdar2017.pdf)
 * [Start-Follow-Read: End-to-End Full-Page Handwriting Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Curtis_Wigington_Start_Follow_Read_ECCV_2018_paper.pdf)
+* [Self-HTR] (https://github.com/BYU-Handwriting-Lab/GettingStarted/blob/master/documentation/resource_pdfs/Submission92.pdf)
+
 
 ### Other Useful Handwriting Resources:
 
