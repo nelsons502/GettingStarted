@@ -62,6 +62,16 @@ Try to find resources that use Python 3.
   * TensorFlow has pretty good [documentation](https://www.tensorflow.org/api_docs/python/) with guides and tutorials.
   * For actually building models in TensorFlow, you will likely use the high-level API,
     [Keras](https://www.tensorflow.org/guide/keras/overview) for most of your work.
+
+### PyTorch
+* While we have used TensorFlow in the past in the lab, we recently transitioned our code to PyTorch. PyTorch has become more standard in the ML industry in recent years, due performing just as well as TensorFlow while being less verbose. 
+Learning TensorFlow is good, but you should be good to just focus on learning PyTorch.
+* [Udacity Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+  * This Udacity course gives an overview of Deep Learning with the explanations and examples written in PyTorch.
+* [Official PyTorch Tutorials](https://docs.pytorch.org/tutorials/)
+  * Here is the tutorial page from the official PyTorch website. Clearly, it is a great place to find instruction :smirk:
+* [YouTube PyTorch Video Series](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
+* [GeeksForGeeks brief explanation](https://www.geeksforgeeks.org/pytorch-learn-with-examples/)
   
 ### Anaconda
 
@@ -110,7 +120,7 @@ Try to find resources that use Python 3.
 * [Gated Convolutional Recurrent Neural Networks for Multilingual Handwriting Recognition](https://ieeexplore-ieee-org.erl.lib.byu.edu/document/8270042)
 * [Are Multidimensional Recurrent Layers Really Necessary for Handwritten Text Recognition?](http://www.jpuigcerver.net/pubs/jpuigcerver_icdar2017.pdf)
 * [Start-Follow-Read: End-to-End Full-Page Handwriting Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Curtis_Wigington_Start_Follow_Read_ECCV_2018_paper.pdf)
-* [Self-HTR] (https://github.com/BYU-Handwriting-Lab/GettingStarted/blob/master/documentation/resource_pdfs/Submission92.pdf)
+* [Self-HTR: A Novel Self-Supervised Handwritten Text Recognition Framework Using Generative Adversarial Networks](https://github.com/nelsons502/GettingStarted/blob/master/documentation/resource_pdfs/Submission92.pdf)
 
 
 ### Other Useful Handwriting Resources:
