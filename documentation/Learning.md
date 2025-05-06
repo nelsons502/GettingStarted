@@ -85,7 +85,7 @@ Learning TensorFlow is good, but you should be good to just focus on learning Py
     * This will activate conda and allow you to activate various environments and install packages.
 
 ### Running Jobs on the Supercomputer
-
+In order to run jobs on the supercomputer and take advantage of the powerful GPUs, follow the instructions on the [Training](https://github.com/nelsons502/GettingStarted/blob/master/documentation/Training.md) page. Here are some more resources to understand what is going on when you run the `sbatch` requests.
 * [General Batch Information](https://rc.byu.edu/wiki/?id=General+Batch+Information)
 * [SLURM Commands](https://rc.byu.edu/wiki/?id=SLURM+Commands)
 * [Job Script Generator](https://rc.byu.edu/documentation/slurm/script-generator)
@@ -121,6 +121,7 @@ Learning TensorFlow is good, but you should be good to just focus on learning Py
 * [Are Multidimensional Recurrent Layers Really Necessary for Handwritten Text Recognition?](http://www.jpuigcerver.net/pubs/jpuigcerver_icdar2017.pdf)
 * [Start-Follow-Read: End-to-End Full-Page Handwriting Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Curtis_Wigington_Start_Follow_Read_ECCV_2018_paper.pdf)
 * [Self-HTR: A Novel Self-Supervised Handwritten Text Recognition Framework Using Generative Adversarial Networks](https://github.com/nelsons502/GettingStarted/blob/master/documentation/resource_pdfs/Submission92.pdf)
+  * This resource (PDF's in the `resource_pdfs` folder), are unpublished explanations of successfully improving pretrained models to recognize handwritten text using a GAN.
 
 
 ### Other Useful Handwriting Resources:

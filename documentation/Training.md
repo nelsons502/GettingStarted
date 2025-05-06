@@ -1,5 +1,5 @@
 # Running Experiments on Super Computer
-
+**Additional resources** to learn about running jobs on the SuperComputer: [Resources](https://github.com/nelsons502/GettingStarted/blob/master/documentation/Learning.md#running-jobs-on-the-supercomputer)
 Most of our shared team research data and code can be found on the super computer under the directory: `/home/<username>/fsl_groups/fslg_handwriting`
 
 This is treated as the home directory of our handwriting team/group, and so any data stored here will remain and won't be deleted. You will, however, want to run experiments through the `/home/<username>/fsl_groups/fslg_handwriting/nobackup/autodelete` directory. Be aware that any data and tests in this directory will be **automatically deleted after *12 weeks***! As such, any data or test results that you would like to keep stored permanently on the super computer would have to be moved to the hwr group home directory at `/home/<username>/fsl_groups/fslg_handwriting`.
