@@ -1,8 +1,10 @@
-# Getting Started
+# Getting Started (Handwriting Recognition)
 
-This repository is meant to provide Handwriting Recognition resources and examples. It also contains on-boarding instructions for new
-members joining the team. There are also a number of Colab notebooks designed to introduce you to Handwriting Recognition concepts and
-TensorFlow.
+This repository is meant to provide Unsupervised Handwriting Recognition resources and examples.
+It also contains on-boarding instructions for new members joining the team.
+It includes a number of Colab notebooks designed to introduce you to Handwriting Recognition concepts and framesworks (i.e. PyTorch, Tensorflow).
+
+Check out the [Learning Resources](https://github.com/BYU-Handwriting-Lab/GettingStarted/blob/master/documentation/Learning.md) for more tutorials and instruction sites. Follow the instructions on [Training Networks on Super Computer](https://github.com/BYU-Handwriting-Lab/GettingStarted/blob/master/documentation/Training.md) to learn how to use the CS Department's GPUs when running intensive ML programs.
 
 Documentation:
 * [Setup Instructions](https://github.com/BYU-Handwriting-Lab/GettingStarted/blob/master/documentation/Setup.md)

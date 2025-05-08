@@ -47,7 +47,7 @@ Try to find resources that use Python 3.
     * Mini-batches
     * Epochs
 
-### TensorFlow
+### TensorFlow (deprecated in the lab)
 
 * We try to use TensorFlow 2 if possible for our models. There are some pretty major differences between TF1 and TF2.
   Many tutorials you find will use TF1, but try to find resources on TF2 if at all possible.

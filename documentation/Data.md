@@ -1,4 +1,7 @@
 # Testing and Training Data
+
+> Jump [Here](NewData.md) for most up-to-date instructions on data.
+
 While most of the handwriting data we utilize will belong to a public dataset (IAM, Bentham, etc.), you may need to create or find your own truthy data so that the network can learn to segment, recognize, or classify correctly.
 
 This documentation contains procedures for manual truthy data creation.

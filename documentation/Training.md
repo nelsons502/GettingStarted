@@ -136,3 +136,9 @@ To do this, simply run the following command:
 scancel <slurm-job-id>
 ```
 You can find the job id in the name of the slurm file that got created.
+
+
+
+```
+jupyer numpy pandas pillow pytorch torchvision tqdm  matplotlib
+```
