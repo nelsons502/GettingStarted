@@ -47,6 +47,11 @@ Try to find resources that use Python 3.
     * Mini-batches
     * Epochs
 
+#### GAN's
+It is recommended that you build your own GAN to practice the concept before jumping into the UHWR model (it has a GAN style architecture).
+[Here](...) is an example of a simple GAN that was created in just a day or two. It generates a dataset of images that have white circles in them. The generator learns to make images that look more and more like the dataset, and the discriminator gets better and at knowing what those kinds of images should look like. \
+Practice by making your own simple GAN. It's fun!
+
 ### TensorFlow (deprecated in the lab)
 
 * We try to use TensorFlow 2 if possible for our models. There are some pretty major differences between TF1 and TF2.

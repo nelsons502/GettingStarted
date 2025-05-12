@@ -151,3 +151,6 @@ if __name__ == "__main__":
 ```
 
 After running this script over the directory containing all json files and the input directory containing the original images, you will output a new directory with the new ground truth baselines. Then, you just need to manually correct the baselines using software like *GIMP*, etc.
+
+### Learning Resources
+* [Line Segmentation in Python with CV2](https://www.youtube.com/watch?v=Vw2dvTj58-Y)
